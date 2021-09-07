@@ -10,4 +10,4 @@ elif scorefl >= 0.6:
     print("D")
 elif scorefl > 0.6:
     print("F")
-else: print("Error, please enter a letter between A-F")
+else: print("Error, please enter a numeric value")
